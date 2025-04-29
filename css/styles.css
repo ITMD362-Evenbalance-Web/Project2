@@ -191,7 +191,33 @@ body {
   border-radius: 20px;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 768px) {
+.gold-frame {
+  padding: 30px;
+}
+
+.container {
+  padding: 40px;
+}
+
+.nav {
+  gap: 50px;
+}
+
+.title {
+  font-size: 36px;
+}
+
+.content-area {
+  padding: 30px;
+}
+
+.news-scroll {
+  max-height: 400px;
+}
+}
+
+@media (min-width: 1024px) {
 .gold-frame {
   padding: 30px;
 }
