@@ -217,38 +217,6 @@ body {
 }
 }
 
-@media (max-width: 400px) {
-.nav a {
-  font-size: 14px;
-  gap: 15px;
-}
-
-.title {
-  font-size: 22px;
-}
-
-.content-area p {
-  font-size: 14px;
-}
-
-.bottom-section {
-  grid-template-columns: 1fr;
-}
-
-.pb-image {
-  padding: 10px 0;
-}
-
-.setup-box,
-.news-box {
-  height: auto;
-}
-
-.news-scroll {
-  max-height: 200px;
-}
-}
-
 /*styling the form page */
 .content-area input[type="text"],
 .content-area input[type="email"],
