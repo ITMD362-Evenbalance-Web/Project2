@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
     newsData.forEach((item) => {
       const li = document.createElement("li");
       li.className = "news-item";
-      li.innerHTML = <strong>${item.dateTime}</strong><br>${item.message};
+      li.innerHTML = `<strong>${item.dateTime}</strong><br>${item.message}`;
       newsList.appendChild(li);
     });
   }
