@@ -1,5 +1,3 @@
-console.log("JavaScript loaded and running!");
-
 const newsData = [
   { dateTime: "Mon Dec 16 2019 0:30", message: "We have confirmed that Violation #74006 may be triggered by non-cheat software." },
   { dateTime: "Wed Jun 24 2015 14:15", message: "Version 2.352 of the PB Client for BF3 has been released..." },
