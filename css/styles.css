@@ -67,6 +67,17 @@ body {
   margin-bottom: 30px;
 }
 
+.content-area ul {
+  padding-left: 0;
+  list-style-type: none;
+  text-align: left;
+}
+
+.content-area li {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
 .nav {
   display: flex;
   justify-content: center;
